@@ -70,7 +70,7 @@
       padding:26px 0;
       font-family:'helveticaneuecyrroman';
       border-bottom:1px solid $main_grey_border_color;
-      margin-bottom:40px;
+      margin-bottom:15px;
       .container{
         background-color:inherit;
         max-width:$main_width+26px;
@@ -143,6 +143,7 @@
       font-size:32px;
       color:#0056b8;
       font-family:'helveticaneuecyrroman';   
+      margin-bottom:35px;
     }
     .my-bonuses{      
       display:flex; 
@@ -362,6 +363,8 @@
     #about-us{
        $padding_vertical:70px;
        $info_padding_bottom:40px;
+       margin-right: 0;
+       margin-left: 0;
        background-color:#0073b1;
        font-size:14px;
        color:#fff; 
